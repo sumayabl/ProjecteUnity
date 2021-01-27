@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 3864057538ed4f54e8919fe40ee69cc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6073943294282565576
+    second: Enemigo_2_0
+  - first:
+      213: 4957920295466864793
+    second: Enemigo_2_1
+  - first:
+      213: -5990989576694528490
+    second: Enemigo_2_2
+  - first:
+      213: 7196980352314235695
+    second: Enemigo_2_3
+  - first:
+      213: 8781963409919896302
+    second: Enemigo_2_4
+  - first:
+      213: 5626065512173396065
+    second: Enemigo_2_5
+  - first:
+      213: 3435681792587740717
+    second: Enemigo_2_6
+  - first:
+      213: -4325892528170343056
+    second: Enemigo_2_7
+  - first:
+      213: 4156800275886169618
+    second: Enemigo_2_8
+  - first:
+      213: -6012725302098802336
+    second: Enemigo_2_9
+  - first:
+      213: -2200095889080573446
+    second: Enemigo_2_10
+  - first:
+      213: 2827042360799938492
+    second: Enemigo_2_11
+  - first:
+      213: 7962828942861519029
+    second: Enemigo_2_12
+  - first:
+      213: -2775535293260520423
+    second: Enemigo_2_13
+  - first:
+      213: 2836333171732150685
+    second: Enemigo_2_14
+  - first:
+      213: 1661729214061490708
+    second: Enemigo_2_15
+  - first:
+      213: 6141105841860899476
+    second: Enemigo_2_16
+  - first:
+      213: 430370666714537381
+    second: Enemigo_2_17
+  - first:
+      213: 7999805719772730415
+    second: Enemigo_2_18
+  - first:
+      213: 2303708649644076253
+    second: Enemigo_2_19
+  - first:
+      213: -1373504273577888836
+    second: Enemigo_2_20
+  - first:
+      213: 8851575033806262565
+    second: Enemigo_2_21
+  - first:
+      213: 7685909318678481630
+    second: Enemigo_2_22
+  - first:
+      213: 4086944055067288372
+    second: Enemigo_2_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo_2_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 359
+        width: 128
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160eb2076ccc31e40800000000000000
+      internalID: 5626065512173396065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
